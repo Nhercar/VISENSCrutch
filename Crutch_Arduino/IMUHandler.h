@@ -2,7 +2,7 @@
 #ifndef IMUHANDLER_H
 #define IMUHANDLER_H
 
-#include <MTi.h>
+#include "MTi.h"
 #include <Wire.h>
 
 // IMU Function Prototypes
